@@ -29,11 +29,8 @@ This deep learning project focuses on building a Convolutional Neural Network (C
 | Validation Set | 93.8%        |
 | Test Set       | 92.1%        |
 
-
-✔ **Model Evaluation**  
-- Generated classification reports  
-- Confusion matrix analysis
-- ![Capture](Capture3.JPG)
+## Predictions
+  ![Capture](Capture.JPG)
 
 ---
 
